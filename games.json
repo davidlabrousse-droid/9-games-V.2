@@ -95,5 +95,27 @@
     "year": "1998",
     "platform": "PlayStation",
     "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Resident%20Evil%202%20(USA).png"
+  },
+  {
+    "id": "lost-odyssey",
+    "title": "Lost Odyssey",
+    "aliases": [
+      "lost odyssey"
+    ],
+    "year": "2007",
+    "platform": "Xbox 360",
+    "cover": ""
+  },
+  {
+    "id": "the-last-of-us-part-i",
+    "title": "The Last of Us Part I",
+    "aliases": [
+      "the last of us part 1",
+      "tlou part i",
+      "tlou part 1"
+    ],
+    "year": "2022",
+    "platform": "PlayStation 5",
+    "cover": ""
   }
 ]
