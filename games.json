@@ -7,7 +7,7 @@
     ],
     "year": "1991",
     "platform": "Mega Drive / Genesis",
-    "cover": "https://thumbnails.libretro.com/Sega%20-%20Mega%20Drive%20-%20Genesis/Named_Boxarts/Sonic%20the%20Hedgehog%20(USA).png"
+    "cover": "https://thumbnails.libretro.com/Sega%20-%20Mega%20Drive%20-%20Genesis/Named_Boxarts/Sonic%20The%20Hedgehog%20(USA).png"
   },
   {
     "id": "streets-of-rage-2",
@@ -75,7 +75,7 @@
     "cover": ""
   },
   {
-    "id": "the-legend-of-zelda-ocarina-of-time",
+    "id": "zelda-oot",
     "title": "The Legend of Zelda: Ocarina of Time",
     "aliases": [
       "ocarina of time",
