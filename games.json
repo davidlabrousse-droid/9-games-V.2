@@ -117,5 +117,38 @@
     "year": "2022",
     "platform": "PlayStation 5",
     "cover": ""
+  },
+  {
+    "id": "altered-beast-md",
+    "title": "Altered Beast",
+    "aliases": [
+      "Altered Beast Mega Drive",
+      "Altered Beast Genesis"
+    ],
+    "year": "1988",
+    "platform": "Mega Drive / Genesis",
+    "cover": ""
+  },
+  {
+    "id": "hammerin-harry-arcade",
+    "title": "Hammerin Harry",
+    "aliases": [
+      "Hammerin' Harry"
+    ],
+    "year": "1990",
+    "platform": "Arcade",
+    "cover": ""
+  },
+  {
+    "id": "zelda-link-to-the-past",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "aliases": [
+      "Zelda Link to the Past",
+      "A Link to the Past",
+      "Link to the Past"
+    ],
+    "year": "1991",
+    "platform": "Super Nintendo",
+    "cover": ""
   }
 ]
