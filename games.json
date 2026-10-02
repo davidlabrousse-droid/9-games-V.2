@@ -1,0 +1,99 @@
+[
+  {
+    "id": "sonic-the-hedgehog",
+    "title": "Sonic the Hedgehog",
+    "aliases": [
+      "sonic 1"
+    ],
+    "year": "1991",
+    "platform": "Mega Drive / Genesis",
+    "cover": "https://thumbnails.libretro.com/Sega%20-%20Mega%20Drive%20-%20Genesis/Named_Boxarts/Sonic%20the%20Hedgehog%20(USA).png"
+  },
+  {
+    "id": "streets-of-rage-2",
+    "title": "Streets of Rage 2",
+    "aliases": [
+      "streets of rage ii",
+      "bare knuckle ii",
+      "bare knuckle 2"
+    ],
+    "year": "1992",
+    "platform": "Mega Drive / Genesis",
+    "cover": "https://thumbnails.libretro.com/Sega%20-%20Mega%20Drive%20-%20Genesis/Named_Boxarts/Streets%20of%20Rage%202%20(USA).png"
+  },
+  {
+    "id": "shining-force-iii",
+    "title": "Shining Force III",
+    "aliases": [
+      "shining force 3"
+    ],
+    "year": "1997",
+    "platform": "Sega Saturn",
+    "cover": "https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Shining%20Force%20III%20(USA).png"
+  },
+  {
+    "id": "final-fantasy-vii",
+    "title": "Final Fantasy VII",
+    "aliases": [
+      "final fantasy 7",
+      "ff7",
+      "ffvii"
+    ],
+    "year": "1997",
+    "platform": "PlayStation",
+    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Final%20Fantasy%20VII%20(USA).png"
+  },
+  {
+    "id": "metal-gear-solid",
+    "title": "Metal Gear Solid",
+    "aliases": [
+      "mgs"
+    ],
+    "year": "1998",
+    "platform": "PlayStation",
+    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Metal%20Gear%20Solid%20(USA).png"
+  },
+  {
+    "id": "super-mario-world",
+    "title": "Super Mario World",
+    "aliases": [
+      "mario world"
+    ],
+    "year": "1990",
+    "platform": "Super Nintendo",
+    "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Super%20Mario%20World%20(USA).png"
+  },
+  {
+    "id": "persona-3-reload",
+    "title": "Persona 3 Reload",
+    "aliases": [
+      "p3 reload",
+      "p3r"
+    ],
+    "year": "2024",
+    "platform": "PlayStation 5 / Xbox Series / PC",
+    "cover": ""
+  },
+  {
+    "id": "the-legend-of-zelda-ocarina-of-time",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "aliases": [
+      "ocarina of time",
+      "zelda oot"
+    ],
+    "year": "1998",
+    "platform": "Nintendo 64",
+    "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA).png"
+  },
+  {
+    "id": "resident-evil-2",
+    "title": "Resident Evil 2",
+    "aliases": [
+      "biohazard 2",
+      "re2"
+    ],
+    "year": "1998",
+    "platform": "PlayStation",
+    "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Resident%20Evil%202%20(USA).png"
+  }
+]
