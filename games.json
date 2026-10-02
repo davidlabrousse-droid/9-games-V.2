@@ -127,7 +127,7 @@
     ],
     "year": "1988",
     "platform": "Mega Drive / Genesis",
-    "cover": ""
+    "cover": "https://thumbnails.libretro.com/Sega%20-%20Mega%20Drive%20-%20Genesis/Named_Boxarts/Altered%20Beast%20(USA%2C%20Europe).png"
   },
   {
     "id": "hammerin-harry-arcade",
@@ -149,6 +149,6 @@
     ],
     "year": "1991",
     "platform": "Super Nintendo",
-    "cover": ""
+    "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA).png"
   }
 ]
